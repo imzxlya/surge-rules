@@ -49,4 +49,5 @@ DOMAIN-SUFFIX,cnki.net
 DOMAIN-SUFFIX,datauthor.com
 DOMAIN-SUFFIX,science.org
 DOMAIN-SUFFIX,clarivate.com
+DOMAIN-SUFFIX，cell.com
 
