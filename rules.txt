@@ -52,3 +52,5 @@ DOMAIN-SUFFIX,clarivate.com
 DOMAIN-SUFFIX,cell.com
 DOMAIN-SUFFIX,scientific.net
 DOMAIN-SUFFIX,reaxys.com
+DOMAIN-SUFFIX,douyin.com
+DOMAIN-SUFFIX,amemv.com
